@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF TransRobotics Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF TransRobotics Italic'), url('SF TransRobotics Italic.woff') format('woff');
+}
+
+h1{
+    font-family: 'SF TransRobotics Italic';
+    font-weight: 200;
+    color: #ffde37;
+}
